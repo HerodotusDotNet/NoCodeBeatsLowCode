@@ -1,2 +1,3 @@
 # NoCodeBeatsLowCode
-Low-code meet no-code
+
+No code means nothing to test and nothing to deploy!
